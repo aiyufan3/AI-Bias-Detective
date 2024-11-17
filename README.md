@@ -122,7 +122,7 @@ Users will see questions like the one shown, with different answer options that 
 
 ### Investigation Complete Screen
 
-![image](https://github.com/user-attachments/assets/3724eb10-8b6d-434a-bb15-53126d5805e5)
+![image](https://github.com/user-attachments/assets/156d8d5f-9ab8-404f-a5a1-ec651af21bd8)
 
 
 Upon completing the quiz, users will receive feedback on their performance, including the number of correct answers.
