@@ -7,6 +7,7 @@ AI Bias Detective is an interactive quiz game designed to raise awareness about 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the App](#running-the-app)
+- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [License](#license)
 
@@ -15,7 +16,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 ### Prerequisites
 
-Make sure you have **Node.js** and **npm** installed on your machine. You can check if they are installed by running the following commands:
+Ensure you have **Node.js** and **npm** installed on your machine. You can check if they are installed by running the following commands:
 
 ```sh
 node -v
@@ -103,6 +104,33 @@ If Node.js or npm is not installed, you can download it from [Node.js official w
 
    Once the server is running, you can interact with the app and begin investigating cases of AI bias by clicking on **"Begin Investigation"**.
 
+## Screenshots
+
+Below are some screenshots to illustrate the look and feel of the game:
+![image](https://github.com/user-attachments/assets/500975c9-0dc3-4681-8456-5e7dc795257f)
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/1915273f-2a87-4233-b63c-a59adbfe0c96">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/6e750122-f631-441c-9965-4c487122b957">
+![image](https://github.com/user-attachments/assets/eda6d4aa-6235-4df9-be11-2c2b482f49ca)
+
+
+### Investigation Start Screen
+
+![AI Bias Detective Start Screen](./images/start_screen.png)
+
+This screen invites users to start their journey in the AI Bias Detective game by clicking "Begin Investigation".
+
+### Question Screen
+
+![AI Bias Detective Question Screen](./images/question_screen.png)
+
+Users will see questions like the one shown, with different answer options that highlight important aspects of AI bias.
+
+### Investigation Complete Screen
+
+![AI Bias Detective Complete Screen](./images/complete_screen.png)
+
+Upon completing the quiz, users will receive feedback on their performance, including the number of correct answers.
+
 ## Technologies Used
 
 - **React**: JavaScript library for building the user interface.
@@ -113,5 +141,4 @@ If Node.js or npm is not installed, you can download it from [Node.js official w
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
