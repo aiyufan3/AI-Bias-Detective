@@ -107,27 +107,23 @@ If Node.js or npm is not installed, you can download it from [Node.js official w
 ## Screenshots
 
 Below are some screenshots to illustrate the look and feel of the game:
-![image](https://github.com/user-attachments/assets/500975c9-0dc3-4681-8456-5e7dc795257f)
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/1915273f-2a87-4233-b63c-a59adbfe0c96">
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/6e750122-f631-441c-9965-4c487122b957">
-![image](https://github.com/user-attachments/assets/eda6d4aa-6235-4df9-be11-2c2b482f49ca)
-
 
 ### Investigation Start Screen
 
-![AI Bias Detective Start Screen](./images/start_screen.png)
+![image](https://github.com/user-attachments/assets/500975c9-0dc3-4681-8456-5e7dc795257f)
 
 This screen invites users to start their journey in the AI Bias Detective game by clicking "Begin Investigation".
 
 ### Question Screen
 
-![AI Bias Detective Question Screen](./images/question_screen.png)
+<img width="971" alt="image" src="https://github.com/user-attachments/assets/706e2c11-b2ae-4db0-8395-9e2f70d4eed0">
 
 Users will see questions like the one shown, with different answer options that highlight important aspects of AI bias.
 
 ### Investigation Complete Screen
 
-![AI Bias Detective Complete Screen](./images/complete_screen.png)
+![image](https://github.com/user-attachments/assets/3724eb10-8b6d-434a-bb15-53126d5805e5)
+
 
 Upon completing the quiz, users will receive feedback on their performance, including the number of correct answers.
 
